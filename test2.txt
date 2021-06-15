@@ -1,0 +1,1 @@
+This is a second test, involving SSH and GPG, done locally, instead of on the web
